@@ -21,5 +21,6 @@ This is a simple GUI-based project named Tic-Tac-Toe game built using Python's T
 4. Click Restart to start a new game.
 ## Author
 Harshita Kalani
+(https://github.com/HarshitaKalani3)
 ## License
 This project is for educational use only. No license specified.
