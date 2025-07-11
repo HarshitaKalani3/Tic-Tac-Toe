@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# Tic-Tac-Toe Game
 This is a simple GUI-based project named Tic-Tac-Toe game built using Python's Tkinter GUI library. It allows two players to play alternately, gives winner and handles tie conditions.
 ## Features
 1. 2-player mode (X & Y)
